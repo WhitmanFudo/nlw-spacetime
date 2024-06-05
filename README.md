@@ -1,16 +1,21 @@
+<div class="shields" style="text-align: center;">
+  <img src="https://img.shields.io/github/last-commit/FThiagoB/NLW_Spacetime?color=996DFF" alt="último commit">
+  <img src="https://img.shields.io/github/repo-size/FThiagoB/NLW_Spacetime?color=996DFF" alt="tamanho do repositório">
+  <img src="https://img.shields.io/github/license/FThiagoB/NLW_Spacetime?color=996DFF" alt="tipo de licença">
+</div>
+
 <p aign="center">
-<img src=".github/preview.png" alt="Demonstração do projeto" widht="100% /> 
+<img src="./preview/preview.png" alt="Demonstração do projeto" widht="100% /> 
 
-## 🖥️ Projeto
-Esse é um projeto Web Responsivo de duma cápsula do tempo para exibir memórias em uma linha do tempo.
+<h2>🖥️ Projeto</h2>
+<p>Esse é um projeto Web Responsivo de duma cápsula do tempo para exibir memórias em uma linha do tempo.</p>
 
-## 🚀 Tecnologias
-Esse Projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+<h2>🚀 Tecnologias</h2>
+<p>Esse Projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:</p>
 
 - HTML
 - CSS
 - Git e Github
 
-## 🏷️ Layout
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ofVXM54OzYByzchTiylWEe/Cápsula-do-tempo-•-Trilha-Explorer-(Community)?type=design&node-id=306-3&t=Hi7aR40N4eVfgU6i-0).
-É necessário ter uma conta no [Figma](https://www.figma.com).
+<h2>🏷️ Layout</h2>
+<p>Visualize o projeto em <a href="https://whitmanfudo.github.io/nlw-spacetime/">Nesse Link</a></p>
