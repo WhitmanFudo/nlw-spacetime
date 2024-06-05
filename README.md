@@ -7,4 +7,4 @@
 <p aign="center">
 <img src="./preview/preview.png" alt="Demonstração do projeto" widht="100% /> 
 
-<p>Visualize o projeto em <a href="https://whitmanfudo.github.io/nlw-spacetime/">Nesse Link</a></p>
+<p class="content">O <em>deploy</em> desse projeto pode ser visto <a href="https://whitmanfudo.github.io/nlw-spacetime/" target="_blank">aqui</a>.</p>
